@@ -7,7 +7,7 @@ To develop a neural network classification model for the given dataset.
 The Iris dataset consists of 150 samples from three species of iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width. The goal is to build a neural network model that can classify a given iris flower into one of these three species based on the provided features.
 
 ## Neural Network Model:
-![alt text](<../nn model exp2.png>)
+![alt text](<nn model exp2.png>)
 
 ## DESIGN STEPS:
 ### STEP 1: Load the dataset
@@ -138,19 +138,18 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ```
 
 ### Dataset Information:
-![alt text](<../Dataset Information.png>)
+![alt text](<Dataset Information.png>)
 
 ### OUTPUT:
 
 ## Confusion Matrix:
-
-![Include confusion matrix here](<../Confusion matrix.png>)
+![alt text](<Confusion matrix.png>)
 
 ## Classification Report:
-![Include classification report here](<../Classification report.png>)
+![alt text](<Classification report.png>)
 
 ### New Sample Data Prediction:
-![Include your sample input and output here](<../Data prediction.png>)
+![alt text](<Data prediction.png>)
 
 ## RESULT:
 Thus, a neural network classification model was successfully developed and trained using PyTorch.
