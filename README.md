@@ -10,29 +10,25 @@ The Iris dataset consists of 150 samples from three species of iris flowers (Iri
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-### STEP 1: 
+### STEP 1: Load the dataset
+Load the Iris dataset using a suitable library.
 
-Write your own steps
+### STEP 2: Preprocess the data
+Preprocess the data by handling missing values and normalizing features.
 
-### STEP 2: 
+### STEP 3: Split into training and testing sets
+Split the dataset into training and testing sets.
 
-
-
-### STEP 3: 
-
-
-
-### STEP 4: 
+### STEP 4: Train the model
+Train a classification model using the training data.
 
 
-
-### STEP 5: 
-
-
-
-### STEP 6: 
+### STEP 5:  Evaluate the model
+Evaluate the model on the test data and calculate accuracy.
 
 
+### STEP 6: Display results
+Display the test accuracy, confusion matrix, and classification report.
 
 
 
